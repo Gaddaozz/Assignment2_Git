@@ -1,0 +1,2 @@
+Hello, this is my Git assignment project.
+I am learning repository management and version control.
