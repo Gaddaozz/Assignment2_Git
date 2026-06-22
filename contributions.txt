@@ -1,0 +1,7 @@
+Git concepts learned:
+- Repository
+- Commit
+- Branch
+- Merge
+- Push
+- Pull
